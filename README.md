@@ -7,5 +7,5 @@ Grande parte do conteúdo será de vídeos e tutoriais da net. E suas referencia
 * <a href="https://github.com/cotozelo/Python_diversos/blob/main/src/namedtuple.ipynb">namedtuple</a>, são tuplas nomeadas, ou seja, os valores da tupla são atributos. A semelhança é mais de uma classe do que uma tupla.
 * <a href='https://github.com/cotozelo/Python_diversos/blob/main/src/dataframe_performance.ipynb'>DataFrame</a>, um estudo de performance.
 * <a href='https://github.com/cotozelo/Python_diversos/blob/main/src/f_strings.ipynb'>f-string</a>, algums exemplos interessantes do uso de f-string em Python.
-* <a href='https://github.com/cotozelo/Python_diversos/blob/main/src/Zips.ipynb'>Zip's</\>, usos do zip e zip_longest.
+* <a href='https://github.com/cotozelo/Python_diversos/blob/main/src/Zips.ipynb'>Zip's</a>, usos do zip e zip_longest.
 * 
