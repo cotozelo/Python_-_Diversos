@@ -8,3 +8,4 @@ Grande parte do conteúdo será de vídeos e tutoriais da net. E suas referencia
 * <a href='https://github.com/cotozelo/Python_diversos/blob/main/src/dataframe_performance.ipynb'>DataFrame</a>, um estudo de performance.
 * <a href='https://github.com/cotozelo/Python_diversos/blob/main/src/f_strings.ipynb'>f-string</a>, algums exemplos interessantes do uso de f-string em Python.
 * <a href='https://github.com/cotozelo/Python_diversos/blob/main/src/Zips.ipynb'>Zip's</a>, usos do zip e zip_longest.
+* <a hrfe='https://github.com/cotozelo/Python_diversos/blob/main/src/HDF5_tutorial.ipynb'>HDF5</a>, segue um minitutorial de como manipular arquivos HDF5. Nesse tutorial iremos mostrar o básico de criação, leitura e listagem de atributos, datasetes, grupos e sub-grupos, além de mostrar um exemplo de como armazenar arquivos dentro de um HDF5. 
