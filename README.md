@@ -9,3 +9,5 @@ Grande parte do conteúdo será de vídeos e tutoriais da net. E suas referencia
 * <a href='https://github.com/cotozelo/Python_diversos/blob/main/src/f_strings.ipynb'>f-string</a>, algums exemplos interessantes do uso de f-string em Python.
 * <a href='https://github.com/cotozelo/Python_diversos/blob/main/src/Zips.ipynb'>Zip's</a>, usos do zip e zip_longest.
 * <a href='https://github.com/cotozelo/Python_diversos/blob/main/src/HDF5_tutorial.ipynb'>HDF5</a>, segue um mini tutorial de como manipular arquivos HDF5. Nesse tutorial iremos mostrar o básico de criação, leitura e listagem de atributos, datasetes, grupos e subgrupos, além de mostrar um exemplo de como armazenar arquivos dentro de um HDF5. 
+* <a href='https://github.com/cotozelo/Python_-_Diversos/blob/main/src/Bot_piano.ipynb'>Bot Piano</a>, esse é um Bot criado para jogar o jogo de tomar piano.
+* <a href='https://github.com/cotozelo/Python_-_Diversos/blob/main/src/Bot_AimBooster.ipynb'>Bot AimBooster</a>, Bot criado para jogar o jogo AimBooters.
